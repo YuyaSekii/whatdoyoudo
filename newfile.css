@@ -1,0 +1,16 @@
+.container{
+	text-align:center;
+}
+
+.main{
+	background:#bdc3c7;
+	height:200px;
+	border: red solid #ff00ff;
+}
+#id{
+	font-size:16px;
+}
+
+#stop, #reset{
+	display:none;
+}
